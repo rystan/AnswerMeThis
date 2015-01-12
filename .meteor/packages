@@ -11,4 +11,7 @@ sacha:spin
 underscore
 accounts-password
 ian:accounts-ui-bootstrap-3
+accounts-google
+accounts-twitter
+accounts-facebook
 
